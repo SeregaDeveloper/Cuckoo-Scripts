@@ -1,2 +1,2 @@
-# Cuckoo-Scripts
-Some useful scripts for cuckoo 
+# Some useful scripts for administrating Cuckoo Sandbox
+
